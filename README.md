@@ -1,6 +1,6 @@
 # Getting Started with Dashboards using Streamlit
 
-Course Overview:
+## Course Overview
 
 This course will introduce you to the basics of creating interactive dashboards using the Streamlit framework. You will learn how to use Streamlit to create data-driven web applications that can be used to visualize and explore data in a variety of formats. By the end of this course, you will have a solid understanding of how to build basic dashboards using Streamlit, and how to deploy them on the web.
 
